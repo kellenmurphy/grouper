@@ -186,7 +186,7 @@
         <jackson.annotations>2.13.3</jackson.annotations>
         <jackson.core>2.13.3</jackson.core>
         <jackson.databind>2.13.3</jackson.databind>        
-        <jsoup.version>1.14.2</jsoup.version>        
+        <jsoup.version>1.15.3</jsoup.version>        
         <java-ipv6.version>0.17</java-ipv6.version>
         
         <!-- grouper-ui -->
